@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trascau_Teodor_Bogdan_1101</string>
+    <string name="DummyText">Dummy Text</string>
+    <string name="codClient">Cod Client\n</string>
+    <string name="strCategorie">Categorie</string>
+    <string name="strSuma">Suma</string>
+    <string name="strDescriere">Descriere\n</string>
+    <string name="strSave">Save</string>
+    <string name="strAdauga">Adauga</string>
+    <string name="strDetalii">Detalii</string>
+</resources>
